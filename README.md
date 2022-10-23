@@ -1,4 +1,4 @@
-# Arithmatic-Parsing-Calculator-Application
+# Arithmetic-Parsing-Calculator-Application
 This is a java program that uses recursive descent parsing to evaluate arithmetic statements within a GUI calculator application
 
 # Supported Mathematical Functions:
