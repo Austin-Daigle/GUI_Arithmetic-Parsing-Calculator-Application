@@ -15,7 +15,7 @@ This is a java program that uses recursive descent parsing to evaluate arithmeti
 Download the [source code](https://github.com/Austin-Daigle/Arithmatic-Parsing-Calculator-Application/blob/main/Calculator.java) and compile and execute it via the command line or download the [executable jar file](https://github.com/Austin-Daigle/Arithmatic-Parsing-Calculator-Application/blob/main/Calculator.jar) and double click it to start; a UI will appear and you can either you the UI button or keystokes to operate the function.
 
 # Screenshot
-![image](https://user-images.githubusercontent.com/100094056/197375005-f0ea4107-0796-49c7-bd08-c56382391112.png)
+![image](https://user-images.githubusercontent.com/100094056/198365990-730d6c66-688b-4de5-9c86-788ad6dc705f.png)
 
 # Inportant usage notes:
 When using trig function be sure to only put in decimal points and alway make sure to close thoses statement with a closing parentheses.
